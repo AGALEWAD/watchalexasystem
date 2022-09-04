@@ -7,9 +7,11 @@ The main idea of this code is that if we add this much of code in watch or else 
 so that she can call it if she need anything such as below highlight points
 
 
-# - it is a watch/locket virtual assistant where she can use this daily to upkeep herself helthier via this small python virtual watch project
+# - it is a watch/locket virtual assistant where she can use this daily to upkeep herself helthier via this small python virtual watch/locket project
 # - whenever she wants to know which meal/food is good for her health at that time she can make sure herself to watch some videos on youtube or else she can google pertaining it
-# - if she got to know about workout at that time also she can search the important things on google, can take help from family doctor
+# - if she wants to know about workout at that time also she can search the important things on google, can take help from family doctor
+![Screenshot (65)](https://user-images.githubusercontent.com/99277068/188310259-592b8dd7-fd75-47b2-bb8d-dff927e9cf74.png)
+
 1) how long she should do workout daily ?
 
 2) how many times she should eat daily ?
