@@ -23,10 +23,12 @@ so that she can call it if she need anything such as below highlight points
 # - And most important point is if she got any issue pertaining of her health she can do emergency message to doctor or any close releative whoevers number we are keeping there by that she can get help from that person 
 
 
-# we can add many things in this code which will make her much more attentive and also make that device more facilities about her life 
+we can add many things in this code which will make her much more attentive and also make that device more facilities about her life 
 
 for an instance ,
 
-1) we add that code which will call directly to that person who is close to her in emergency time by that locket or watch device after detecting her heart beats in her emergency time
+# 1) we add that code which will call directly to that person who is close to her in emergency time by that locket or watch device after detecting her heart beats in her emergency time
 
-2) directly delivery by that locket or watch if she needs anything such as food , any home applianes 
+# 2)she would directly call to that device for delivery by that locket or watch if she needs anything such as food, any home applianes or any medicine 
+
+# 3)if she is using her wheelchair that also we can manage through this technolgy if we add code according to that purpose
