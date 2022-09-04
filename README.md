@@ -10,9 +10,9 @@ so that she can call it if she need anything such as below highlight points
 # it is a watch/locket virtual assistant where she can use this daily to upkeep herself helthier via this small python virtual watch project
 # whenever she wants to know which meal/food is good for her health at that time she can make sure herself to watch some videos on youtube or else she can google pertaining it
 # if she got to know about workout at that time also she can search the important things on google, can take help from family doctor
-# 1) how long she should do workout daily
-# 2) how many times she should eat daily
-# 3) how many steps she should walk every day
+#1) how long she should do workout daily
+#2) how many times she should eat daily
+#3) how many steps she should walk every day
 # if she is having any problem releveant to ailment then she could go through the either google or doctor for prerequisite otherwise for appointment
 # she can talk with relatives or else grand child either what's app or what's app video call which we will connect that device to television
 # she can enjoy jokes , instagram or any other social site if she is aquired with this
@@ -20,7 +20,7 @@ so that she can call it if she need anything such as below highlight points
 # And most important point is if she got any issue pertaining of her health she can do emergency message to doctor or any close releative whoevers number we are keeping there by that she can get help from that person -->
 
 
-we can add many things in this code which will make her much more attentive about her life 
+# we can add many things in this code which will make her much more attentive and also make that device more facilities about her life 
 
 for an instance ,
 
