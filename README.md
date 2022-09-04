@@ -34,3 +34,5 @@ for an instance ,
 # 2)she would directly call to that device for delivery by that locket or watch if she needs anything such as food, any home applianes or any medicine 
 
 # 3)if she is using her wheelchair that also we can manage through this technolgy if we add code according to that purpose
+![Screenshot (66)](https://user-images.githubusercontent.com/99277068/188310384-9815975e-f0ca-47ac-bbae-6393762ca008.png)
+
